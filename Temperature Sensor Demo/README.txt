@@ -1,5 +1,5 @@
 Thermostat demo project
---------------------------------
+-----------------------
 
 Simple project that demonstrates the usage of Vernier Thermostat.
 The program calculates the temperature based on the raw data from
